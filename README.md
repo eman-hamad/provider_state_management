@@ -1,6 +1,7 @@
 read this article for more details :
- Dev :https://dev.to/eman55555/provider-state-management-in-flutter-part-1-e4k
- Medium :https://medium.com/@emanhamad55555/provider-state-management-in-flutter-part-1-b3fcb9fd2226
+
+ Dev : https://dev.to/eman55555/provider-state-management-in-flutter-part-1-e4k
+ Medium : https://medium.com/@emanhamad55555/provider-state-management-in-flutter-part-1-b3fcb9fd2226
 
 # provider_state_management
 

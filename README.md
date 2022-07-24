@@ -1,3 +1,5 @@
+read this article for more details : https://dev.to/eman55555/provider-state-management-in-flutter-part-1-e4k
+
 # provider_state_management
 
 A new Flutter project.

@@ -1,11 +1,11 @@
 read this article for more details :
 
  Part 1
- Dev : https://dev.to/eman55555/provider-state-management-in-flutter-part-1-e4k     
+ Dev : https://lnkd.in/dHZJs5sC   
  
- Medium : https://medium.com/@emanhamad55555/provider-state-management-in-flutter-part-1-b3fcb9fd2226
+ Medium : https://lnkd.in/dgeqiM86
  
- Part 2Why state management is important ?
+ Part 2
  Dev : https://lnkd.in/eVZx82Av
  
  Medium : https://lnkd.in/evtQVtws
